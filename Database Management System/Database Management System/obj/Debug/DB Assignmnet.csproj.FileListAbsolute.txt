@@ -1,0 +1,16 @@
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\bin\Debug\DB Assignmnet.exe
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\bin\Debug\DB Assignmnet.pdb
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB Assignmnet.csproj.AssemblyReference.cache
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB_Assignmnet.Form1.resources
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB_Assignmnet.Form2.resources
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB_Assignmnet.Form3.resources
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB_Assignmnet.Form4.resources
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB_Assignmnet.Form5.resources
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB_Assignmnet.Form6.resources
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB_Assignmnet.Form7.resources
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB_Assignmnet.Form8.resources
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB_Assignmnet.Properties.Resources.resources
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB Assignmnet.csproj.GenerateResource.cache
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB Assignmnet.csproj.CoreCompileInputs.cache
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB Assignmnet.exe
+C:\Users\ravin\Documents\Visual Studio 2022\Projects\DB Assignmnet\DB Assignmnet\obj\Debug\DB Assignmnet.pdb
